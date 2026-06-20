@@ -6624,7 +6624,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "b73c0dab6ebf421d93e9ad5525a7d8c8",
     "m_Id": 0,
-    "m_DisplayName": "Length",
+    "m_DisplayName": "Length_Tail",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",

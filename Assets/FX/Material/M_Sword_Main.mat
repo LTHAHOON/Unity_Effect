@@ -62,6 +62,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _BaseMap_Burn_Power: 0.8
     - _Lava_Intensity: 6
     - _Lava_Noise: -1.18
     - _Lava_Noise_Lerp: -1.17
